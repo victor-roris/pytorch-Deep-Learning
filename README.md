@@ -1,4 +1,28 @@
-# Deep Learning (with PyTorch) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/pytorch-Deep-Learning/master)
+# (Adaptation) Deep Learning (with PyTorch) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/pytorch-Deep-Learning/master)
+
+-------------
+This repository is a copy with adaptations and evolutions of the Alfredo Canziani's [github](https://github.com/Atcold/pytorch-Deep-Learning). The original github was the practice repository of the `DEEP LEARNING` course of the New York University [link](https://atcold.github.io/pytorch-Deep-Learning/).
+
+In particular, I adapted and commented on all the notebooks to reach the comprehension of the topics. These notebooks are full of *personal* comments and low level develops. I am learning the fundamentals of Machine Learning and Linear Algebra. It is pretty possible that I misunderstood concepts or I made wrong assumptions. Please, don't use this personal repository as ground truth, use it as a help.
+
+The real order of the notebooks in relation with the practicum videos is:
+
+ - [Week1](https://www.youtube.com/watch?v=5_qrxVq1kvc):
+ 
+   * [00-logic_neuron_programming.ipynb](./00-logic_neuron_programming.ipynb): Introduction to the programmation of logical gates using pytorch (solved exercises). 
+   * [01-tensor_tutorial.ipynb](./01-tensor_tutorial.ipynb): Introduction to the definition and usage of tensors in pytorch. 
+   * [02-space_stretching.ipynb](./02-space_stretching.ipynb): It explains how the linear and nonlinear transformations, in consequence, the neural networks, modify the points in the dimensional space. 
+   
+   
+ - [Week12](https://www.youtube.com/watch?v=f01J0Dri-6k):
+
+I really enjoy the Alfredo's classes (don't take him very serious). I recomend to check his [github](https://github.com/Atcold) and [videos](https://www.youtube.com/c/AlfredoCanziani/videos).
+
+   * [15-transformer.ipynb](./15-transformer.ipynb): Deep explanation of transformers (it includes an extensive explanation of the slides) and a basic example of the use of transformers to text classification.
+
+-------------
+
+*original REAME text*
 
 This notebook repository now has a [companion website](https://atcold.github.io/pytorch-Deep-Learning/), where all the course material can be found in video and textual format.
 
